@@ -1,0 +1,23 @@
+NOTE EXPLICATIVE SUR L'USAGE DE L'INTELLIGENCE ARTIFICIELLE
+Projet n°3 – Site web statique (Master 2 STAPS MELS – Université Paris Nanterre)
+Étudiant : Fayette Diallo
+Événement présenté : Nanterre Footcup (Tournoi universitaire de football à 5)
+
+1. Outil d'intelligence artificielle utilisé
+Pour la réalisation de ce projet, j'ai utilisé l'assistant d'intelligence artificielle Gemini (Google).
+
+2. Apports de l'intelligence artificielle dans le projet
+L'outil m'a accompagné sur les aspects techniques et structurels suivants :
+- Conception de l'arborescence complète du site en 5 pages HTML distinctes (index.html, evenement.html, programme.html, infos.html, inscription.html) reliées par un menu de navigation commun.
+- Génération du code HTML5 et création d'une feuille de style externe unique (style.css) respectant la contrainte d'absence de style intégré directement dans les balises HTML.
+- Structuration visuelle des contenus (cartes de présentation, tableau horaire du déroulé, formulaire d'inscription HTML et mise en page des visuels).
+- Relecture orthographique et grammaticale de mes textes personnels avant leur intégration dans le code.
+- Assistance pas à pas pour l'organisation locale des fichiers (dossier images/, encodage UTF-8) et le déploiement en ligne via GitHub et GitHub Pages.
+
+3. Modifications et apports manuels réalisés
+Conformément aux consignes du projet, j'ai rédigé, orienté et modifié manuellement de nombreux éléments afin de personnaliser intégralement le rendu :
+- Rédaction personnelle des contenus de présentation (ma présentation en tant qu'étudiant, la présentation du Master 2 MELS et celle de l'Université Paris Nanterre sur la page d'accueil).
+- Choix éditorial et conception du concept de l'événement (« Nanterre Footcup »), inspiré des tournois conviviaux de type Footéolien (format 16 équipes, 4 poules, matchs de 8 min puis phases finales de 15 min avec tirs au but, stands associatifs/restauration/souvenirs et concert de clôture de la fanfare universitaire).
+- Ajustement manuel du programme horaire pour l'adapter au créneau 13h00 – 20h00 et choix du lieu d'accueil (les installations sportives du campus de l'Université Paris Nanterre).
+- Sélection, téléchargement, renommage et intégration manuelle des trois photographies libres de droit dans le dossier images/ (foot5.jpg, village-tournoi.jpg, terrain-campus.jpg).
+- Assemblage final des fichiers dans le Bloc-notes, fusion du fichier style.css, tests de navigation en local et mise en ligne sur le dépôt GitHub.
